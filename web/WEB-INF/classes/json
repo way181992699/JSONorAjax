@@ -1,0 +1,11 @@
+JSON:
+  用json表示一条学生信息：
+   json对象：
+    {"sid":1,"sname":"张三","sage":18}
+ 用json表示多个学生信息：
+   json数组:
+    [
+    	{"sid":1,"sname":"张三","sage":18},
+    	{"sid":1,"sname":"张三","sage":18},
+    	{"sid":1,"sname":"张三","sage":18}
+    ]
