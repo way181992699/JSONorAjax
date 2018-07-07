@@ -37,6 +37,7 @@
       }
 
   </script>
+
   <!--
       1.触发第一个下拉列表的选择事件
       2.通过ajax将用户选择选项传递个服务器
@@ -53,4 +54,5 @@
     <option value="0">请选择城市</option>
   </select>
   </body>
+
 </html>
